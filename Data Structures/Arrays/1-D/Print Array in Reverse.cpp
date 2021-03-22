@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     int num;
-    int ary[num];
+    int ary[1000];
     cin>> num;
     for(int i =0; i<num; i++){
         cin>>ary[i];
